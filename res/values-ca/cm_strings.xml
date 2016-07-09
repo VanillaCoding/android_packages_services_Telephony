@@ -33,6 +33,7 @@
   <!-- My Phone Number -->
   <string name="phone_number_label">El meu número de telèfon</string>
   <string name="phone_number_summary">Estableix el número de telèfon per aquest dispositiu</string>
+  <string name="set_my_number_failed">No s\'ha pogut establir el número de telèfon</string>
   <!-- Toasts for various transient network events -->
   <!-- Toast text for Unconditional Call Forwarding enabled  -->
   <string name="call_notif_unconditionalCF">Desviament sense condicions de trucades actiu</string>
@@ -149,6 +150,7 @@
   <string name="cb_psw_dont_match">Les contrasenyes no coincideixen</string>
   <!-- FDN settings: error message displayed in a popup (toast) -->
   <string name="fdn_invalid_number_cm">L\'FDN no ha estat actualitzat perquè el número està buit o supera els 20 dígits.</string>
+  <string name="fdn_service_unavailable">El servei FDN no està disponible.</string>
   <!-- Title of the activity shown for Exporting contacts to SIM.  -->
   <string name="exportContacts">Exportant els contactes a la targeta SIM\u2026</string>
   <!-- Title of the List shown for SIM Contacts Management Activity.  -->
